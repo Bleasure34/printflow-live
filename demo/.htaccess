@@ -1,0 +1,6 @@
+# Demo app SPA routing — all non-file routes fall back to the app shell
+RewriteEngine On
+RewriteBase /demo/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /demo/index.html [L]

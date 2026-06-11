@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240">
+  <rect width="300" height="240" fill="#fff"/>
+  <path d="M150 25 L235 55 L235 130 Q235 185 150 215 Q65 185 65 130 L65 55 Z" fill="#166534" stroke="#14532d" stroke-width="5"/>
+  <circle cx="150" cy="115" r="38" fill="#fafafa"/>
+  <path d="M150 92 L168 105 L161 127 L139 127 L132 105 Z" fill="#166534"/>
+  <text x="150" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#fafafa">MVYS</text>
+</svg>

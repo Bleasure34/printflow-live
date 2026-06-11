@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240">
+  <rect width="300" height="240" fill="#fff"/>
+  <path d="M40 180 L110 70 L150 130 L185 85 L260 180 Z" fill="#1e3a5f"/>
+  <path d="M110 70 L130 100 L120 100 L138 128 L150 130 Z" fill="#e8eef4"/>
+  <circle cx="225" cy="62" r="22" fill="#d97706"/>
+  <text x="150" y="215" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#1e3a5f">SUMMIT BREWING</text>
+</svg>

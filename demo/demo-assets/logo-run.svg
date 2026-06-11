@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240">
+  <rect width="300" height="240" fill="#fff"/>
+  <path d="M30 150 Q75 120 120 150 T210 150 T300 150 L300 175 Q255 145 210 175 T120 175 T30 175 Z" fill="#0e7490"/>
+  <circle cx="150" cy="75" r="34" fill="#f59e0b"/>
+  <path d="M118 75 L182 75" stroke="#fff" stroke-width="5"/>
+  <text x="150" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0e7490">HARBOR RUN 5K</text>
+</svg>
