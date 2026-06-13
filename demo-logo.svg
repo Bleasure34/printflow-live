@@ -1,11 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="PrintFlow">
   <defs>
-    <linearGradient id="g" x1="0" y1="64" x2="64" y2="0">
-      <stop offset="0" stop-color="#7A0247"/>
-      <stop offset="1" stop-color="#C9037A"/>
+    <linearGradient id="pf-tile" x1="0" y1="64" x2="64" y2="0">
+      <stop offset="0" stop-color="#7A0247"></stop>
+      <stop offset="1" stop-color="#C9037A"></stop>
     </linearGradient>
   </defs>
-  <rect x="4" y="4" width="56" height="56" rx="14" fill="url(#g)"/>
-  <path d="M14 44 L26 24 L34 36 L40 28 L50 44 Z" fill="#fff" opacity="0.95"/>
-  <circle cx="44" cy="20" r="5" fill="#fff" opacity="0.9"/>
+  <rect x="4" y="4" width="56" height="56" rx="15" fill="url(#pf-tile)"></rect>
+  <g fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M23 13 V44 C23 51 29 53 35 50"></path>
+    <path d="M23 13 H35 A11.5 11.5 0 0 1 35 36 H23"></path>
+  </g>
+  <g fill="none" stroke="#7A0247" stroke-width="1.7" stroke-linecap="round">
+    <line x1="33.5" y1="20" x2="33.5" y2="29"></line>
+    <line x1="29" y1="24.5" x2="38" y2="24.5"></line>
+  </g>
 </svg>
